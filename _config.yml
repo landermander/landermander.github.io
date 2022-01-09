@@ -30,7 +30,7 @@ twitter_username: LanderMartinez_
 github_username:  landermander
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 remote_theme: old-jekyll-templates/Linear-Jekyll-Theme
 plugins:
   - jekyll-feed
