@@ -31,7 +31,7 @@ github_username:  landermander
 
 # Build settings
 # markdown: kramdown
-remote_theme: old-jekyll-templates/Linear-Jekyll-Theme
+theme: minima
 plugins:
   - jekyll-feed
 
